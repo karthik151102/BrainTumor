@@ -1,0 +1,35 @@
+steps to run code 
+
+
+step1 : install python3.10.11
+  
+
+step2 : install libraries
+
+pip install h5py==3.10.0
+pip install ipykernel==6.5.0
+pip install ipython==7.34.0
+pip install ipython-genutils==0.2.0
+pip install ipywidgets==8.1.1
+pip install joblib==1.3.2
+pip install keras==2.14.0
+pip install matplotlib==3.7.1
+pip install nbclient==0.9.0
+pip install nbconvert==7.11.0
+pip install nbformat==5.9.2
+pip install nibabel==5.2.0
+pip install notebook==7.0.6
+pip install notebook_shim==0.2.3
+pip install numpy==1.23.5
+pip install opencv-contrib-python==4.8.0.76
+pip install opencv-python==4.8.0.76
+pip install pandas==2.1.3
+pip install Pillow==10.1.0
+pip install protobuf==4.25.1
+pip install scikit-learn==1.2.2
+pip install scipy==1.11.3
+pip install seaborn==0.10.1
+pip install tensorflow==2.14.0
+
+step 3 : double click on run.bat file ur interface will get open, then run step by step
+
