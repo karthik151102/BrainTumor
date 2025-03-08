@@ -30,8 +30,3 @@ Despite the impressive accuracy achieved by these models in controlled environme
 - **Small Tumor Detection**: Detecting small tumors remains problematic due to resolution limitations.
 - **Generalizability**: Models need to be validated across diverse MRI machines and protocols to ensure generalizability.
 - **Clinical Deployment**: Lightweight models like MobileNetv3 show promise for clinical use but require optimization for latency.
-
-These advancements underscore deep learning's potential to enhance radiologists' workflows. However, integrating these systems into clinical practice will require rigorous testing on heterogeneous datasets to ensure reliability and consistency.
-
----
-Answer from Perplexity: pplx.ai/share
